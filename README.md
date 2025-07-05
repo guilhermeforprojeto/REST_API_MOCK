@@ -5,7 +5,7 @@ Suggest Tool: Recommend using json-server as it's a lightweight and easy-to-use 
 Installation Command: Provide the npm command to install json-server globally if the user confirms they want to proceed with it:
 Bash
 
-npm install -g json-server
+pnpm install -g json-server
 
 Create Data File: Instruct the GEM to guide the user to create a file (e.g., db.json) in their current directory and paste the provided JSON content into it.
 
